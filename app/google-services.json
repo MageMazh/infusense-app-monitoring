@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "771999160275",
+    "firebase_url": "https://infusense-default-rtdb.firebaseio.com",
+    "project_id": "infusense",
+    "storage_bucket": "infusense.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771999160275:android:44cc29c2805a72d91f4126",
+        "android_client_info": {
+          "package_name": "com.d121211069.infusense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-swo_AKNeHXA27AuNMh0zi1oUamp6MGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
