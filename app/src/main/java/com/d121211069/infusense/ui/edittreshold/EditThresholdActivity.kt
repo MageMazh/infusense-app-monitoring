@@ -67,7 +67,7 @@ class EditThresholdActivity : AppCompatActivity() {
 
         setRequiredLabel(binding.labelMinTitle, "Batasan Minimum (ml)")
         setRequiredLabel(binding.labelMaxTitle, "Batasan Maksimum (ml)")
-        setRequiredLabel(binding.labelDripTitle, "Laju Tetesan (tpm)")
+        setRequiredLabel(binding.labelDripTitle, "Laju Tetesan (TPM)")
 
         setupSeekBarWithEditText(binding.seekBarMin, binding.textMinCurrentValue)
         setupSeekBarWithEditText(binding.seekBarMax, binding.textMaxCurrentValue)

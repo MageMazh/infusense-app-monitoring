@@ -8,7 +8,7 @@
     <string name="batasan_maksimum_ml">Batasan Maksimum (ml)</string>
     <string name="five_hundred_value">500</string>
     <string name="one_hundred_twenty_value">120</string>
-    <string name="laju_tetesan_tpm">Laju Tetesan (tpm)</string>
+    <string name="laju_tetesan_tpm">Laju Tetesan (TPM)</string>
     <string name="nama_pasien">Nama Pasien</string>
     <string name="hint_nama_pasien">Masukkan nama pasien (opsional)</string>
     <string name="nama_rumah_sakit">Nama Rumah Sakit</string>
@@ -43,6 +43,6 @@
     <string name="menu_alerts">Alerts</string>
     <string name="menu_home">Home</string>
     <string name="desc_information_pasien">Pasien: %1$s\n%2$s</string>
-    <string name="add_batasan">Add Batasan</string>
+    <string name="add_batasan">Tambah Batasan</string>
     <string name="edit_batasan">Edit Batasan</string>
 </resources>
